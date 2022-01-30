@@ -25,4 +25,4 @@ To find out how good you are in your
 - Upload and submit to github
 - A confirmation email to hassanalvi11@gmail.com will be helpful
 
-## Easy-peasy isn't it? Do it before 29th of January 2022
+## Easy-peasy isn't it? Do it before 4th of February 2022
