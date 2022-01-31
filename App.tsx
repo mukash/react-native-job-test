@@ -21,6 +21,7 @@ const App = () => {
   const calculateValue = (op1: any, op2: any, operand: any) => {
     // to check if empty
     if (op1 !== "" && op2 !== "" && operand !== "") {
+      //if operands are mot correct
       if (
         operand === "+" ||
         operand === "-" ||
